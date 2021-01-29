@@ -1,0 +1,19 @@
+{
+    "name": "bl1ndy/instaparser-php",
+    "description": "Some project for learning php",
+    "type": "project",
+    "autoload": {
+        "files": [
+            "src/Load.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "bl1ndy",
+            "email": "ayoblindstone@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
