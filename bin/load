@@ -1,4 +1,5 @@
 #!/usr/bin/php
+
 <?php
 
 use function Instaparser\Load\loadRemoteUserData;
